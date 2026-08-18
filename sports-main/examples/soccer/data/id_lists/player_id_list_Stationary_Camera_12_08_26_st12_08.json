@@ -1,0 +1,213 @@
+{
+  "ids": [
+    {
+      "canonical_id": 1,
+      "frames_seen": 1180,
+      "path_length_px": 8731.0,
+      "speed_px_per_sec": 405.7,
+      "net_displacement_px": 232.4,
+      "class": "player",
+      "passed_filter": true,
+      "player_name": null,
+      "team": null
+    },
+    {
+      "canonical_id": 2,
+      "frames_seen": 1184,
+      "path_length_px": 6222.1,
+      "speed_px_per_sec": 288.2,
+      "net_displacement_px": 62.7,
+      "class": "player",
+      "passed_filter": true,
+      "player_name": null,
+      "team": null
+    },
+    {
+      "canonical_id": 3,
+      "frames_seen": 947,
+      "path_length_px": 2398.2,
+      "speed_px_per_sec": 138.9,
+      "net_displacement_px": 833.2,
+      "class": "player",
+      "passed_filter": true,
+      "player_name": null,
+      "team": null
+    },
+    {
+      "canonical_id": 4,
+      "frames_seen": 959,
+      "path_length_px": 2967.9,
+      "speed_px_per_sec": 169.7,
+      "net_displacement_px": 763.8,
+      "class": "player",
+      "passed_filter": true,
+      "player_name": null,
+      "team": null
+    },
+    {
+      "canonical_id": 5,
+      "frames_seen": 980,
+      "path_length_px": 4749.4,
+      "speed_px_per_sec": 265.8,
+      "net_displacement_px": 875.4,
+      "class": "player",
+      "passed_filter": true,
+      "player_name": null,
+      "team": null
+    },
+    {
+      "canonical_id": 6,
+      "frames_seen": 790,
+      "path_length_px": 5138.3,
+      "speed_px_per_sec": 356.7,
+      "net_displacement_px": 1046.1,
+      "class": "player",
+      "passed_filter": true,
+      "player_name": null,
+      "team": null
+    },
+    {
+      "canonical_id": 7,
+      "frames_seen": 1227,
+      "path_length_px": 7814.5,
+      "speed_px_per_sec": 349.3,
+      "net_displacement_px": 1248.3,
+      "class": "player",
+      "passed_filter": true,
+      "player_name": null,
+      "team": null
+    },
+    {
+      "canonical_id": 8,
+      "frames_seen": 257,
+      "path_length_px": 91.8,
+      "speed_px_per_sec": 19.6,
+      "net_displacement_px": 59.8,
+      "class": "goalkeeper",
+      "passed_filter": true,
+      "player_name": null,
+      "team": null
+    },
+    {
+      "canonical_id": 9,
+      "frames_seen": 1500,
+      "path_length_px": 4440.7,
+      "speed_px_per_sec": 162.3,
+      "net_displacement_px": 1342.4,
+      "class": "player",
+      "passed_filter": true,
+      "player_name": null,
+      "team": null
+    },
+    {
+      "canonical_id": 10,
+      "frames_seen": 1003,
+      "path_length_px": 7249.5,
+      "speed_px_per_sec": 396.4,
+      "net_displacement_px": 605.2,
+      "class": "player",
+      "passed_filter": true,
+      "player_name": null,
+      "team": null
+    },
+    {
+      "canonical_id": 11,
+      "frames_seen": 892,
+      "path_length_px": 2208.4,
+      "speed_px_per_sec": 135.8,
+      "net_displacement_px": 663.8,
+      "class": "goalkeeper",
+      "passed_filter": true,
+      "player_name": null,
+      "team": null
+    },
+    {
+      "canonical_id": 12,
+      "frames_seen": 397,
+      "path_length_px": 1690.3,
+      "speed_px_per_sec": 233.5,
+      "net_displacement_px": 203.9,
+      "class": "player",
+      "passed_filter": true,
+      "player_name": null,
+      "team": null
+    },
+    {
+      "canonical_id": 13,
+      "frames_seen": 188,
+      "path_length_px": 283.3,
+      "speed_px_per_sec": 82.6,
+      "net_displacement_px": 261.4,
+      "class": "goalkeeper",
+      "passed_filter": true,
+      "player_name": null,
+      "team": null
+    },
+    {
+      "canonical_id": 17,
+      "frames_seen": 721,
+      "path_length_px": 3429.3,
+      "speed_px_per_sec": 260.8,
+      "net_displacement_px": 170.2,
+      "class": "player",
+      "passed_filter": true,
+      "player_name": null,
+      "team": null
+    },
+    {
+      "canonical_id": 23,
+      "frames_seen": 685,
+      "path_length_px": 4549.2,
+      "speed_px_per_sec": 364.2,
+      "net_displacement_px": 212.0,
+      "class": "player",
+      "passed_filter": true,
+      "player_name": null,
+      "team": null
+    },
+    {
+      "canonical_id": 248,
+      "frames_seen": 388,
+      "path_length_px": 655.5,
+      "speed_px_per_sec": 92.6,
+      "net_displacement_px": 98.3,
+      "class": "goalkeeper",
+      "passed_filter": true,
+      "player_name": null,
+      "team": null
+    },
+    {
+      "canonical_id": 444,
+      "frames_seen": 95,
+      "path_length_px": 1596.0,
+      "speed_px_per_sec": 921.3,
+      "net_displacement_px": 112.5,
+      "class": "player",
+      "passed_filter": false,
+      "player_name": null,
+      "team": null
+    },
+    {
+      "canonical_id": 459,
+      "frames_seen": 2,
+      "path_length_px": 0.0,
+      "speed_px_per_sec": 0.0,
+      "net_displacement_px": 21.7,
+      "class": "player",
+      "passed_filter": false,
+      "player_name": null,
+      "team": null
+    },
+    {
+      "canonical_id": 507,
+      "frames_seen": 80,
+      "path_length_px": 105.8,
+      "speed_px_per_sec": 72.5,
+      "net_displacement_px": 66.8,
+      "class": "player",
+      "passed_filter": false,
+      "player_name": null,
+      "team": null
+    }
+  ]
+}

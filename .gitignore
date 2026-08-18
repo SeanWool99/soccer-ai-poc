@@ -1,0 +1,17 @@
+venv/
+venv_inference/
+**/__pycache__/
+*.pyc
+*.mp4
+*.mov
+*.pt
+*.onnx
+*.npy
+*.pkl
+.DS_Store
+*.log
+data/base_datasets/
+data/outputs/
+training_data*/
+soccer_training/
+datasets/
