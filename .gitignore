@@ -15,3 +15,5 @@ data/outputs/
 training_data*/
 soccer_training/
 datasets/
+*.pth
+*.zip
